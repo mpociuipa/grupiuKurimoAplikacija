@@ -1,0 +1,18 @@
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    margin-bottom: 5px;
+}
+button {
+    background: blue;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+body{
+    background: orange;
+    text-align: center;
+}
